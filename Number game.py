@@ -3,7 +3,7 @@ import random
 playing = True
 
 number = random.randint(1, 10)
-
+          
 print("Guess a number between 1 to 10!")
 
 while playing:
